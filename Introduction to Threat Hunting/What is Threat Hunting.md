@@ -22,3 +22,7 @@ Threat intelligence is utilized during the hunt to develop techniques and carry 
 - Requires strong practical understanding of cyber threats and the cyber-kill chain
 - requires you to know your environment
 - is easier with quality data and resources
+
+### Order of Events
+Cyber threat intelligence is a great aid to hunters, but when we're not able to use that soley - rely on CTI, Network Hunting, then Endpoint Hunting. 
+![Alt text](image-1.png)
