@@ -1,0 +1,16 @@
+# DNS (Domain Name System)
+
+DNS is a protocol that resolves names to IP addresses. 
+
+https://www.ietf.org/rfc/rfc1034.txt
+
+- DNS is a query-response protocol
+- DNS traffic normally uses UDP on port 53
+- DNS traffic should go to DNS servers only 
+
+DNS packet:
+![Alt text](image.png)
+
+Facts to help distinuish normal and suspicious DNS traffic:
+![Alt text](image-1.png)
+
